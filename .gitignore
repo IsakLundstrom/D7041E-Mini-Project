@@ -1,3 +1,6 @@
+# The audio files
+audio_speech_actors_01-24/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
