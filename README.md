@@ -26,7 +26,7 @@ Run the python notebook `project.ipynb` in any supporting program, ex. Jupyer No
 
 The link to the video with the presentation of the project:
 
-- [video url here]
+- https://www.youtube.com/watch?v=M50mgq9sPHI
 
 ## The dataset
 
