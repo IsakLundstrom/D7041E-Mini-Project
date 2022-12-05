@@ -33,3 +33,5 @@ The link to the video with the presentation of the project:
 The dataset used is from _Ryerson Audio-Visual Database of Emotional Speech and Song_ (RAVDESS). In this project only the speech audio-only files where used, downloaded from here:
 
 - https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
+
+After downloading, unzip the file and put the folder `audio_speech_actors_01-24` in the same directory as the `project.ipynb` file.
