@@ -17,6 +17,7 @@ in any terminal.
 Run the python notebook `project.ipynb` in any supporting program, ex. Jupyer Notebook, VSCode or Google Colab.
 
 ## Authors
+Group 8 
 
 - Isak Lundmark - lunisa-9@student.ltu.se
 - Isak Lundström - isalun-9@student.ltu.se
