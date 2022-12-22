@@ -1,6 +1,6 @@
-# Emotion and gender speech audio classification using CNN and NN - D7041E Mini Project
+# Emotion and gender speech audio classification using CNN, NN and SVM - D7041E Mini Project
 
-This the self choosen mini project for the course D7041E, Applied Artificial Intelligence, Lp2, H22 at LTU. The project choosen was to be able to classify emotion and gender from a data set of speech audio files, i.e. the RAVDESS Emotional speech audio dataset, using a CNN and a NN.
+This the self choosen mini project for the course D7041E, Applied Artificial Intelligence, Lp2, H22 at LTU. The project choosen was to be able to classify emotion and gender from a data set of speech audio files, i.e. the RAVDESS Emotional speech audio dataset, using a CNN, a NN and a SVM.
 
 ## Requirments
 
@@ -17,7 +17,8 @@ in any terminal.
 Run the python notebook `project.ipynb` in any supporting program, ex. Jupyer Notebook, VSCode or Google Colab.
 
 ## Authors
-Group 8 
+
+Group 8
 
 - Isak Lundmark - lunisa-9@student.ltu.se
 - Isak Lundström - isalun-9@student.ltu.se
@@ -36,3 +37,7 @@ The dataset used is from _Ryerson Audio-Visual Database of Emotional Speech and 
 - https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
 
 After downloading, unzip the file and put the folder `audio_speech_actors_01-24` in the same directory as the `project.ipynb` file.
+
+## Results
+
+To see all steps, results and conclusions checkout `projects.ipynb`.
