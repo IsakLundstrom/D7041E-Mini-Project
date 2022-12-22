@@ -28,7 +28,7 @@ Group 8
 
 The link to the video with the presentation of the project:
 
-- https://www.youtube.com/watch?v=M50mgq9sPHI
+- https://www.youtube.com/watch?v=kF6cNwgFS3Y
 
 ## The dataset
 
